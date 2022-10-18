@@ -1,19 +1,19 @@
 # Table of contents
 
-* [👋 Welcome to Tangz Book](README.md)
+* [👋 The Book of Tangz](README.md)
 
 ## About
 
-* [💡 What we do](about/what-we-do.md)
 * [✨ Team](about/team.md)
 
 ## Tangz Tools
 
-* [🎰 1-of-1 Mint Machine](tangz-tools/1-of-1-mint-machine.md)
-* [🎰 Large Collection Vending Machine](tangz-tools/large-collection-vending-machine.md)
-* [📱 Mobile App NFT Widget](tangz-tools/mobile-app-nft-widget.md)
+* [📱 Mobile App with Widgets](tangz-tools/mobile-app-with-widgets.md)
 * [🧹 NFT Sweep Chrome Extension](tangz-tools/nft-sweep-chrome-extension.md)
+* [🎨 1-of-1 Mint Machine](tangz-tools/1-of-1-mint-machine.md)
+* [💸 In-Browser Vending Machine](tangz-tools/in-browser-vending-machine.md)
 * [🔥 Burn Service](tangz-tools/burn-service.md)
+* [🗳 Voting](tangz-tools/voting.md)
 
 ## Open Source
 
@@ -24,7 +24,8 @@
 ## Support
 
 * [FAQ](support/faq.md)
-* [Contacts](support/contacts.md)
+* [Official Links](support/official-links.md)
+* [Support Tickets](support/support-tickets.md)
 
 ## Policies
 

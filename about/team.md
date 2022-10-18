@@ -1,10 +1,8 @@
 # ✨ Team
 
+![](<../.gitbook/assets/image (1).png>)****
 
-
-****![](<../.gitbook/assets/image (1).png>)****
-
-**iOddestHumanDad**\
+****[**iOddestHumanDad**](https://twitter.com/ioddesthumandad)\
 _Artist/Developer_
 
 Background developing large-scale enterprise software and groundbreaking AI systems. Python hacking preferred, Haskell typing enjoyed.\
@@ -12,7 +10,7 @@ Background developing large-scale enterprise software and groundbreaking AI syst
 
 ****![](../.gitbook/assets/image.png)****
 
-**Spex**\
+****[**Spex**](https://twitter.com/wildspex)\
 _Product/Promotional_\
 __\
-__Background developing large-scale enterprise software and groundbreaking AI systems. Python hacking preferred, Haskell typing enjoyed.
+__Multi-Budz HODLer and avid crypto enthusiast with a long history of (shit)posting. Primate who enjoys bananas and beers.

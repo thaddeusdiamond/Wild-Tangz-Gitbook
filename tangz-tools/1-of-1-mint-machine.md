@@ -1,14 +1,12 @@
-# 🎰 1-of-1 Mint Machine
+# 🎨 1-of-1 Mint Machine
 
 {% hint style="info" %}
-**Holding Requirement: 1 Wild Tangz NFT = 500 mints per instance (unlimited instances). The more Wild Tangz NFT you hold the more you can mint per instance.**
+**Holding Requirement: Unlimited no-fee mints with 1 Wild Tangz**
 {% endhint %}
 
-**Description**: This is a web UI that takes a file (e.g., image, 3-d model, audio) and creates a 1-of-1 NFT straight to your Nami/Typhon/Flint/Gero/Eternl wallet.
+This is a web UI that takes a file (e.g., image, 3-d model, audio) and creates a 1-of-1 NFT straight to your Nami/Typhon/Flint/Gero/Eternl wallet.
 
-**Utility URL**: [https://www.wildtangz.com/mint-machine](https://www.wildtangz.com/mint-machine)
-
-**Codebase**: [https://github.com/thaddeusdiamond/cardano-nft-mint-frontend](https://github.com/thaddeusdiamond/cardano-nft-mint-frontend)
+**URL**: [https://www.wildtangz.com/mint-machine](https://www.wildtangz.com/mint-machine)
 
 {% embed url="https://www.youtube.com/watch?v=WgWfFzWyDLo" %}
 Instructional Video by [@CryptoBababooey](https://twitter.com/CryptoBababooey)
@@ -69,3 +67,5 @@ Instructional Video by [@CryptoBababooey](https://twitter.com/CryptoBababooey)
 9. Click on “Mint Now!”\
    ![](https://lh3.googleusercontent.com/BD1SLwsTDdL6cn\_GdBa3lwWojIJoV02cXXYdq2s5ZAVBQhO9rNkLbzENVVc-NkeKmpF7KnRUaal0XT--xuOm64ADFjzVKGJOxETr4V7guSjwyDY8WXfvOj1qnAJBwBVKePeCfymNzJ43PVJK654p5xbQugd2-33XHMfmCdsbkUS7wlMrCF09NGPUaw)
 10. It will prompt you to sign the transaction which will cost you the dust fee. Sign it and your NFT should be in your wallet within 5 minutes!
+
+**Codebase**: [https://github.com/thaddeusdiamond/cardano-nft-mint-frontend](https://github.com/thaddeusdiamond/cardano-nft-mint-frontend)****

@@ -1,2 +1,0 @@
-# 📱 Mobile App NFT Widget
-
