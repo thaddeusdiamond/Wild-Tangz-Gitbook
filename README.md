@@ -2,6 +2,9 @@
 description: >-
   Learn more about the Wild Tangz NFT project and utility we offer to our
   hodlers
+cover: .gitbook/assets/banner.jpg
+coverY: 0
+layout: landing
 ---
 
 # 👋 The Book of Tangz
