@@ -1,7 +1,7 @@
 ---
 description: >-
-  Inside The Book of Tangz you will be able to find more information about the
-  Wild Tangz project.
+  Learn more about the Wild Tangz NFT project and utility we offer to our
+  hodlers
 ---
 
 # 👋 The Book of Tangz
