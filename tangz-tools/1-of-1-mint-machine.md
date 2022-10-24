@@ -12,6 +12,14 @@ This is a web UI that takes a file (e.g., image, 3-d model, audio) and creates a
 Instructional Video by [@CryptoBababooey](https://twitter.com/CryptoBababooey)
 {% endembed %}
 
+#### ****
+
+{% hint style="info" %}
+**What Even is a (Non)-Fungible Token?**
+
+In Cardano, tokens have both a _policy identifier_ and a _name_.  When minting using any service provider on Cardano, you will need to specify a **unique name** in order for your newly created token to be a "true" NFT.  If you use a quantity greater than 1 when minting, or you reuse the same asset name in the same collection, your token will be deemed a "fungible token".
+{% endhint %}
+
 #### **How to use Tangz Tools Mint Service 1-of-1s**
 
 1. Go to https://www.wildtangz.com/mint-machine.
