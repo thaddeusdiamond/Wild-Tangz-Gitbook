@@ -9,10 +9,8 @@ This is a web UI that takes a file (e.g., image, 3-d model, audio) and creates a
 **URL**: [https://www.wildtangz.com/mint-machine](https://www.wildtangz.com/mint-machine)
 
 {% embed url="https://www.youtube.com/watch?v=WgWfFzWyDLo" %}
-Instructional Video by [@CryptoBababooey](https://twitter.com/CryptoBababooey)
+Instructional Video by [@CryptoBababooey](https://twitter.com/CryptoBababooey)hin
 {% endembed %}
-
-#### ****
 
 {% hint style="info" %}
 **What Even is a (Non)-Fungible Token?**
@@ -20,9 +18,13 @@ Instructional Video by [@CryptoBababooey](https://twitter.com/CryptoBababooey)
 In Cardano, tokens have both a _policy identifier_ and a _name_.  When minting using any service provider on Cardano, you will need to specify a **unique name** in order for your newly created token to be a "true" NFT.  If you use a quantity greater than 1 when minting, or you reuse the same asset name in the same collection, your token will be deemed a "fungible token".
 {% endhint %}
 
+{% hint style="warning" %}
+If you mess up any portion of minting below be sure to save your keys and visit the [burn service tool](burn-service.md) so that you can burn the incorrectly created asset (note asset must remain in wallet while being burned).
+{% endhint %}
+
 #### **How to use Tangz Tools Mint Service 1-of-1s**
 
-1. Go to https://www.wildtangz.com/mint-machine.
+1. Go to [https://www.wildtangz.com/mint-machine](https://www.wildtangz.com/mint-machine).
 2. Connect your wallet.\
    ![](https://lh3.googleusercontent.com/DQIVy2Bzq5s8-ftAGjhXZ1iXOezXFxdGOJBmUqgPwTI-UROcAtZgqAnyns5pSCE7al0AdjF\_waHVXAeX8jc6Qe1T-Dz\_bjVJ6Nv5VWX0uPSSkRl03q4AecIRIyXoVgpiXoatDUTpWdJOw6EOFqFe0-BxcfYxsZFX4KFZHxYiwZiEWAyjFDiz8G14dA)
 3. Scroll down to NFT Policy and Key Information.\
