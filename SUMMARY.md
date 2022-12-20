@@ -1,5 +1,6 @@
 # Table of contents
 
+* [🦧 Wild Tangz Website](https://wildtangz.com)
 * [👋 The Book of Tangz](README.md)
 
 ## About
