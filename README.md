@@ -1,7 +1,5 @@
 ---
-description: >-
-  Learn more about the Wild Tangz NFT project and utility we offer to our
-  hodlers
+description: Learn more about the Wild Tangz NFT projectand utility we offer to our hodlers
 cover: .gitbook/assets/banner.jpg
 coverY: 0
 layout: landing
@@ -44,6 +42,8 @@ Doxxed and already building.  We're wild.
 {% endcontent-ref %}
 
 ## Learn More
+
+{% embed url="https://wildtangz.com" %}
 
 {% content-ref url="support/faq.md" %}
 [faq.md](support/faq.md)
