@@ -1,7 +1,7 @@
 # 🧹 NFT Sweep Chrome Extension
 
 {% hint style="info" %}
-#### Holding Requirements: Wallet doing the sweeping must hold 2 Wild Tangz
+#### Holding Requirements: Wallet doing the sweeping must hold 4 Wild Tangz
 {% endhint %}
 
 Sweep by Wild Tangz is a Chrome browser extension that enables verified holders of 2 Tangz to sweep across multiple sites, multiple collections, and without any manual UTxO management. Simply add to your sweep and then click the browser extension icon to be taken to [https://wildtangz.com/sweep](https://wildtangz.com/sweep), where you can perform the final sweeping actions!
