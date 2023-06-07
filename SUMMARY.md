@@ -14,6 +14,7 @@
 * [🎨 1-of-1 Mint Machine](tangz-tools/1-of-1-mint-machine.md)
 * [💸 In-Browser Vending Machine](tangz-tools/in-browser-vending-machine.md)
 * [🔥 Burn Service](tangz-tools/burn-service.md)
+* [🔎 Transaction Retrieval Service](tangz-tools/transaction-retrieval-service.md)
 * [🗳 Voting](tangz-tools/voting.md)
 
 ## Open Source
