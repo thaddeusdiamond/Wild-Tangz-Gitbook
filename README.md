@@ -37,6 +37,10 @@ Doxxed and already building.  We're wild.
 [burn-service.md](tangz-tools/burn-service.md)
 {% endcontent-ref %}
 
+{% content-ref url="tangz-tools/transaction-retrieval-service.md" %}
+[transaction-retrieval-service.md](tangz-tools/transaction-retrieval-service.md)
+{% endcontent-ref %}
+
 {% content-ref url="tangz-tools/voting.md" %}
 [voting.md](tangz-tools/voting.md)
 {% endcontent-ref %}
