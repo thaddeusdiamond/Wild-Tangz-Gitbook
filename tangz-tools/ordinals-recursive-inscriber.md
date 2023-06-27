@@ -6,4 +6,4 @@ The product lives at[ ](https://recursivebuilder.io)[recursivebuilder.io](https:
 
 **Instructional Walkthrough**
 
-_YouTube link to video soon..._
+{% embed url="https://youtu.be/a5stGOMBL2U" %}

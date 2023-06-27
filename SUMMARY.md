@@ -13,8 +13,8 @@
 * [🔥 Burn Service](tangz-tools/burn-service.md)
 * [💸 In-Browser Vending Machine](tangz-tools/in-browser-vending-machine.md)
 * [📱 Mobile App with Widgets](tangz-tools/mobile-app-with-widgets.md)
-* [🟧 Ordinals - Recursive Inscriber](tangz-tools/ordinals-recursive-inscriber.md)
 * [🧹 NFT Sweep Chrome Extension](tangz-tools/nft-sweep-chrome-extension.md)
+* [🟧 Ordinals - Recursive Inscriber](tangz-tools/ordinals-recursive-inscriber.md)
 * [🔎 Transaction Retrieval Service](tangz-tools/transaction-retrieval-service.md)
 * [🗳 Voting](tangz-tools/voting.md)
 

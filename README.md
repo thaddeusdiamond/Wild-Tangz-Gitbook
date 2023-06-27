@@ -33,12 +33,12 @@ Doxxed and already building.  We're wild.
 [mobile-app-with-widgets.md](tangz-tools/mobile-app-with-widgets.md)
 {% endcontent-ref %}
 
-{% content-ref url="tangz-tools/ordinals-recursive-inscriber.md" %}
-[ordinals-recursive-inscriber.md](tangz-tools/ordinals-recursive-inscriber.md)
-{% endcontent-ref %}
-
 {% content-ref url="tangz-tools/nft-sweep-chrome-extension.md" %}
 [nft-sweep-chrome-extension.md](tangz-tools/nft-sweep-chrome-extension.md)
+{% endcontent-ref %}
+
+{% content-ref url="tangz-tools/ordinals-recursive-inscriber.md" %}
+[ordinals-recursive-inscriber.md](tangz-tools/ordinals-recursive-inscriber.md)
 {% endcontent-ref %}
 
 {% content-ref url="tangz-tools/transaction-retrieval-service.md" %}
