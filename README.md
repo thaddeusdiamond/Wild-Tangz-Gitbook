@@ -25,6 +25,10 @@ Doxxed and already building.  We're wild.
 [burn-service.md](tangz-tools/burn-service.md)
 {% endcontent-ref %}
 
+{% content-ref url="tangz-tools/cardano-submit-api.md" %}
+[cardano-submit-api.md](tangz-tools/cardano-submit-api.md)
+{% endcontent-ref %}
+
 {% content-ref url="tangz-tools/in-browser-vending-machine.md" %}
 [in-browser-vending-machine.md](tangz-tools/in-browser-vending-machine.md)
 {% endcontent-ref %}

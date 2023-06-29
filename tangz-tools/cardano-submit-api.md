@@ -1,4 +1,4 @@
-# Cardano Submit API
+# ⚡ Cardano Submit API
 
 {% hint style="info" %}
 This functionality requires you to own **20 Tangz for a shared Submit API** and **60 Tangz for a dedicated Submit API**.  Wild Tangz does not run stake pools.
