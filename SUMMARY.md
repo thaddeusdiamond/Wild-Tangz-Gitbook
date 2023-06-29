@@ -11,6 +11,7 @@
 
 * [🎨 1-of-1 Mint Machine](tangz-tools/1-of-1-mint-machine.md)
 * [🔥 Burn Service](tangz-tools/burn-service.md)
+* [Cardano Submit API](tangz-tools/cardano-submit-api.md)
 * [💸 In-Browser Vending Machine](tangz-tools/in-browser-vending-machine.md)
 * [📱 Mobile App with Widgets](tangz-tools/mobile-app-with-widgets.md)
 * [🧹 NFT Sweep Chrome Extension](tangz-tools/nft-sweep-chrome-extension.md)
