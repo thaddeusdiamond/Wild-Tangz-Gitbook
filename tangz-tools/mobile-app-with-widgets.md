@@ -12,7 +12,7 @@ This is a mobile app to place a single CNFT or a wallet/handle/address collectio
 
 In addition, a second widget allows you to view your estimated portfolio valuation (courtesy of our friends at [ApeWatch](https://apewatch.app/) \[thanks [@Victor Mundi](https://twitter.com/victormundi)!]). _NOTE: Portfolio valuation is an estimate based on marketplace listing and does not represent or warrant actual valuations or financial advice_
 
-**iOS**: [https://apps.apple.com/us/app/cardano-nfts/id1635181620](https://apps.apple.com/us/app/cardano-nfts/id1635181620)__
+**iOS**: [https://apps.apple.com/us/app/cardano-nfts/id1635181620](https://apps.apple.com/us/app/cardano-nfts/id1635181620)
 
 <div>
 
@@ -32,7 +32,7 @@ In addition, a second widget allows you to view your estimated portfolio valuati
 
 </div>
 
-**Android**: [https://play.google.com/store/apps/details?id=com.wildtangz.cardano.nft](https://play.google.com/store/apps/details?id=com.wildtangz.cardano.nft)__
+**Android**: [https://play.google.com/store/apps/details?id=com.wildtangz.cardano.nft](https://play.google.com/store/apps/details?id=com.wildtangz.cardano.nft)
 
 <div>
 

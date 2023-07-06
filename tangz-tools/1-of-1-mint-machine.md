@@ -47,18 +47,18 @@ If you mess up any portion of minting below be sure to save your keys and visit 
      * Click on +New Key    \
        &#x20;                                             ![](https://lh6.googleusercontent.com/4pw9UAX9i8pnrOuwQfs7n084IqMS1csMkcrW2h-Bst\_OLQq6zp0gwGYwkKGVZKY0dSe7eXcS8Kh7RaSMPh04h1bCqfT3ngbshCmsusJk4P9AzV9iIr2Oer7dFqtn68Bu5aXS7NHsupoS0gVNUQRNFm54ZPCjww5SfAgV0MszbhPfA5ljo-0nVIvQdQ)
      * **Name the new API Key and click create**\
-       ****![](https://lh6.googleusercontent.com/KFmJLi0vnT1hpkflNUV-airL6838drnsb8hd\_ZYHIsRtoRhh2LmGkMymQUQf9ir9mGXJLHOD3GcDzXFsWtzhGxB8kOjkgnpBD0vmQ2RcRW9J6rK6PfJ4XhpJG50\_DP0Suw5m94eaCrXu-wvBI3pBb8Wbr9ZVnySEbT1CEPiPnmVQzZgh6T\_1t\_1n3w)
+       ![](https://lh6.googleusercontent.com/KFmJLi0vnT1hpkflNUV-airL6838drnsb8hd\_ZYHIsRtoRhh2LmGkMymQUQf9ir9mGXJLHOD3GcDzXFsWtzhGxB8kOjkgnpBD0vmQ2RcRW9J6rK6PfJ4XhpJG50\_DP0Suw5m94eaCrXu-wvBI3pBb8Wbr9ZVnySEbT1CEPiPnmVQzZgh6T\_1t\_1n3w)
      * Click on the Actions button to the right of your API Key and click Copy.
      * Go back to the Wild Tangz Mint Machine and paste the NFT.Storage API Key.
    * Blockfrost: https://blockfrost.io/auth/signin
      * Go to their site and sign in using email, Google, GitHub, or GitLab. Does not require registration.\
        ![](https://lh6.googleusercontent.com/owjDNH0wS\_sejwpDjeulspKA9BWZPjsvCG8jLlovtMvILCumbfN1q8CtQcPS9MYBCTH3eJQeZaFcJorQkXwz6Y9PWhYo4m5EQtS18RR\_RkGUXYyACdA4EsfqEwrMqsgy4HiZ\_6UnFN2i\_rHc6SU73gTE0vnEkItMGa2n\_02rWqrYV1McPr9QcVzljg)
-     * Click on **+ Add Project** **** \
-       &#x20;                                                ****                                                 ![](https://lh6.googleusercontent.com/TJQqYKyMYOEegjMqBuDCaAKsVz-yBC2lZzOz8\_rw4caYN5OCtAoQfvgtxB0ehllLJ1NJ03q8E-ipxLieVJevnurhGIFdpCQEaaJ-cFwbl3-q9f\_0uJlHRVPPpWDuVBDijgk6ic1TDiohzIm\_bW4AiDjUYcO5VljLj06mZMAS41zkH-mMlBlAE8nS5A)
+     * Click on **+ Add Project**  \
+       &#x20;                                                ![](https://lh6.googleusercontent.com/TJQqYKyMYOEegjMqBuDCaAKsVz-yBC2lZzOz8\_rw4caYN5OCtAoQfvgtxB0ehllLJ1NJ03q8E-ipxLieVJevnurhGIFdpCQEaaJ-cFwbl3-q9f\_0uJlHRVPPpWDuVBDijgk6ic1TDiohzIm\_bW4AiDjUYcO5VljLj06mZMAS41zkH-mMlBlAE8nS5A)
      * Name the Project.
      * Choose Network: **Cardano mainnet**&#x20;
      * Click **Save Project**         \
-       ****![](https://lh6.googleusercontent.com/2J2c0MV-FL\_cSev8yByKBbli349lssqlFtHCmWKY6GvhIS7bYns8JsK0MtTW26yduMk6OsW8jnSMOA8XsDafGl2X7L91cGRHGlJ7iG51rETxdPFObjoSe3fMW6wIZQT5cbJXWd-\_tx6f47ZDnXvhoD8QjIhtZGQ1S18ld3ubDaW6meEip7nwZ8ilUw)
+       ![](https://lh6.googleusercontent.com/2J2c0MV-FL\_cSev8yByKBbli349lssqlFtHCmWKY6GvhIS7bYns8JsK0MtTW26yduMk6OsW8jnSMOA8XsDafGl2X7L91cGRHGlJ7iG51rETxdPFObjoSe3fMW6wIZQT5cbJXWd-\_tx6f47ZDnXvhoD8QjIhtZGQ1S18ld3ubDaW6meEip7nwZ8ilUw)
      * Click on the Project.&#x20;
      * Copy the API Key (Project ID).\
        ![](https://lh5.googleusercontent.com/-gJ18RUjLo5ppwbuXNEAY0jeI7UApfSC7y4hqir1K3VPFNvAqSr2sfROqiBRxbwFzLKAoD5IXFQTo6MCNOaV08omXYfZo5KtPVCWD03bEtjsQGc5DTO2zH\_v4b2q2wCQR7o4zS\_SglEi8hsudAr4ZWqss6fSQHj80I3ZtvbLN4AyErjksrseOuYR0Q)
@@ -78,4 +78,4 @@ If you mess up any portion of minting below be sure to save your keys and visit 
    ![](https://lh3.googleusercontent.com/BD1SLwsTDdL6cn\_GdBa3lwWojIJoV02cXXYdq2s5ZAVBQhO9rNkLbzENVVc-NkeKmpF7KnRUaal0XT--xuOm64ADFjzVKGJOxETr4V7guSjwyDY8WXfvOj1qnAJBwBVKePeCfymNzJ43PVJK654p5xbQugd2-33XHMfmCdsbkUS7wlMrCF09NGPUaw)
 10. It will prompt you to sign the transaction which will cost you the dust fee. Sign it and your NFT should be in your wallet within 5 minutes!
 
-**Codebase**: [https://github.com/thaddeusdiamond/cardano-nft-mint-frontend](https://github.com/thaddeusdiamond/cardano-nft-mint-frontend)****
+**Codebase**: [https://github.com/thaddeusdiamond/cardano-nft-mint-frontend](https://github.com/thaddeusdiamond/cardano-nft-mint-frontend)

@@ -25,3 +25,70 @@ To configure your custom node, please use a wallet like Eternl or Nami (Vespr cu
 **DO NOT SHARE THIS INFORMATION WITH OTHERS AS THEY WILL BE ABLE TO USE YOUR NODE**
 
 If you have any questions, please use your Discord support ticket as a resource and be sure to tag me. We hope you enjoy using our node service!!
+
+**Nami Integration**
+
+To integrate your new custom endpoint into Nami:
+
+1. Click on the Nami browser extension icon
+2. From the main page, select the Avatar (default is a robot) in the top-right
+3. Select "Settings"
+4. Select "Network"
+5. Check the box that says "Custom Node"
+6. Enter the URL provided in your Discord ticket in the text field
+
+See the pictures below for more details.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.16.13 PM.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.16.22 PM.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.16.40 PM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+**Eternl Integration**
+
+To integrate your new custom endpoint into Eternl:
+
+1. Click the browser extension icon for Eternl, opening the main Eternl page
+2. Select the gear in the lower-left corner next to the megaphone and lightbulb
+3. Enable "Custom Submit API Endpoint"
+4. Click "Add"
+5. Enter the URL provided in your Discord ticket in the text field
+6. Click "Save"
+7. Select the new endpoint you entered from the dropdown list
+
+See the pictures below for more details.
+
+<div>
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.17.12 PM.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.17.32 PM.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.17.46 PM.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.17.53 PM.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-07-05 at 7.18.16 PM.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+**Vespr Integration**
+
+Vespr's wallet is not supported at this time
