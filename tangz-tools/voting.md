@@ -24,9 +24,9 @@ To provide feedback to the Wild Tangz project (e.g., metadata revisions, roadmap
 
 </div>
 
-**URL**: [https://wildtangz.com/vote](https://wildtangz.com/vote)
+**URL**: https://legacy.wildtangz.com/vote
 
-**Current Vote:** Ballot #1 - Renaming "Wife Beater" Trait Value
+**Old Vote:** Ballot #1 - Renaming "Wife Beater" Trait Value
 
 **Instructional Video**
 

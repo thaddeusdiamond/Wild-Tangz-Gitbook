@@ -6,7 +6,7 @@
 
 This is a web UI that takes a file (e.g., image, 3-d model, audio) and creates a 1-of-1 NFT straight to your Nami/Typhon/Flint/Gero/Eternl wallet.
 
-**URL**: [https://www.wildtangz.com/mint-machine](https://www.wildtangz.com/mint-machine)
+**URL**: [https://legacy.wildtangz.com/mint-machine](https://legacy.wildtangz.com/mint-machine)
 
 {% embed url="https://www.youtube.com/watch?v=WgWfFzWyDLo" %}
 Instructional Video by [@CryptoBababooey](https://twitter.com/CryptoBababooey)hin

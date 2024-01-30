@@ -6,7 +6,7 @@
 
 This interface enables you to upload JSON-formatted metadata files (1 file per 1 asset), and configure a vending machine to monitor for UTXOs and process new mints. Profit vaults MUST be hardware (e.g., Ledger) for production use cases.&#x20;
 
-**URL**: [https://www.wildtangz.com/vending-machine](https://www.wildtangz.com/vending-machine)&#x20;
+**URL**: [https://legacy.wildtangz.com/vending-machine](https://legacy.wildtangz.com/vending-machine)&#x20;
 
 **Status**: Production (Vasil) release&#x20;
 
